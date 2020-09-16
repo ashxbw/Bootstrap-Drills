@@ -1,1 +1,1 @@
-The purpose of this lab is to practice pulling in Bootstrap 4's CDN and use its class based styling.
+In this lab, the goal is to create a responsive resume using Bootstrap like components: Alerts, List Groups, Cards, and Jumbotron.
